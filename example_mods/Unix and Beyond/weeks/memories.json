@@ -1,0 +1,30 @@
+{
+	"storyName": "Memories",
+	"hideFreeplay": false,
+	"weekBackground": "sanctum",
+	"weekBefore": "cynder",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"songs": [
+		[
+			"sanctum",
+			"oran",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"oran",
+		"bf",
+		"gf"
+	],
+	"weekName": "Memories"
+}
