@@ -80,7 +80,7 @@ class CreditsState extends MusicBeatState
 		['evilsk8r',			'evilsk8r',			"Artist of Friday Night Funkin'",					'https://twitter.com/evilsk8r',			'0xFF53E52C'],
 		['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",					'https://twitter.com/kawaisprite',		'0xFF6475F3'],
 		['Unix and Beyond Team'],
-		['Bloodbitt','shadowmario','Main creator of everything','https://www.youtube.com/channel/UCKLj-4aNGuOfBp4RMGElg3g','0xFFFFDD33']
+		['Bloodbitt','blood','Main creator of everything','https://www.youtube.com/channel/UCKLj-4aNGuOfBp4RMGElg3g','0xFFFFDD33']
 	];
 		
 		
