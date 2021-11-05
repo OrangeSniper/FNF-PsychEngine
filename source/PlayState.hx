@@ -625,6 +625,34 @@ class PlayState extends MusicBeatState
 					bg.antialiasing = false;
 					add(bg);
 				}
+			case 'exampleStage':
+				var bg:BGSprite = new BGSprite('sky',-1000,-300, 0.8, 0.8);
+				add(bg);
+				var sun:BGSprite = new BGSprite('sun',-300,-200, 0.1, 0.1);
+				add(sun);
+				var ground:BGSprite = new BGSprite('ground',-100,600, 1, 1);
+				add(ground);
+			case 'shattered sanctuary':
+				var wall:BGSprite = new BGSprite('sanctum/wall',-300,-200, 0.8, 0.8);
+				add(wall);
+
+				var painting1:BGSprite = new BGSprite('sanctum/painting 1',-200,50, 0.8, 0.8);
+				add(painting1);
+
+				var painting2:BGSprite = new BGSprite('sanctum/painting 2',7000,0, 0.8, 0.8);
+				add(painting2);
+
+				var floor:BGSprite = new BGSprite('sanctum/floor',-900,500, 0.9, 0.9);
+				add(floor);
+				
+				var lamp1:BGSprite = new BGSprite('sanctum/lamp',-500,80, 0.9, 0.9);
+				add(lamp1);
+
+				var lamp2:BGSprite = new BGSprite('sanctum/lamp',1200,80, 0.9, 0.9);
+				add(lamp2);
+
+				var desk:BGSprite = new BGSprite('sanctum/desk',0,90, 0.9, 0.9);
+				add(desk);
 		}
 
 		if(isPixelStage) {
